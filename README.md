@@ -1,6 +1,3 @@
 # Genshin Impact Splash Screen
 
-<video width="600px" controls>
-  <source src="https://github.com/user-attachments/assets/bd8c8127-ec99-49e3-9c71-20c5507ea200" type="video/mp4">
-</video>
-
+[genshin_impact.webm](https://github.com/user-attachments/assets/87c723da-2dc1-464e-90fa-0704fd7c034c)
